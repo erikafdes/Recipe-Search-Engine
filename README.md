@@ -4,9 +4,9 @@
 
 ## Intern Details
 
-Intern ID : 
+ **Intern ID** : CITS3717
  **Full Name** : Erika  Fernandes
- **Domain** : spftware development
+ **Domain** : software development
  **Duration**  : 6 weeks
 **Project Name** : Savory — Recipe Search Engine 
 
