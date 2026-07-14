@@ -1,14 +1,14 @@
-# Savory — Recipe Search Engine
+#  Savory — Recipe Search Engine
 
-**CODTECH Internship — Project 4 
+**CODTECH Internship — Project 4 **
 
 ## Intern Details
 
-Intern ID : CITS3717
-Full Name : Erika Fernandes
-Domain : Software devlopment
-Duration : 6 weeks
-Project Name : Savory — Recipe Search Engine 
+Intern ID : 
+ **Full Name** : Erika  Fernandes
+ **Domain** : spftware development
+ **Duration**  : 6 weeks
+**Project Name** : Savory — Recipe Search Engine 
 
 ## Project Scope
 Savory is a single-page recipe search engine that lets users discover real recipes by name, ingredient keyword, category, or cuisine (area). It's built as a self-contained HTML file — no build step, no server, no API key required — and is powered live by the free [TheMealDB](https://www.themealdb.com/api.php) public API.
@@ -34,10 +34,9 @@ The project focuses on a warm, editorial "recipe card" aesthetic (sage/emerald/l
 - **Google Fonts** — Playfair Display (display) + Inter (body/UI)
 - **Browser `localStorage`** — persists favorites and theme preference
 
-##  Screenshots
-
+## Screenshots
 <p align="center">
-  <img src="screenshots/Screenshot%202026-07-14%20230128.png" alt="Home Page" width="32%">
-  <img src="screenshots/Screenshot%202026-07-14%20230102.png" alt="Dashboard" width="32%">
-  <img src="screenshots/Screenshot%202026-07-14%20230116.png" alt="Journal" width="32%">
+  <img src="screenshots/Screenshot%202026-07-14%20230128.png" width="32%">
+  <img src="screenshots/Screenshot%202026-07-14%20230102.png" width="32%">
+  <img src="screenshots/Screenshot%202026-07-14%20230116.png" width="32%">
 </p>
