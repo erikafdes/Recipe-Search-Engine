@@ -4,7 +4,7 @@ CODTECH Internship — Project 4 (
 
 ## Intern Details
 
-Intern ID : 
+Intern ID : CITS3717
 Full Name : Erika 
 Domain : Software Development
 Duration : 6 weeks
